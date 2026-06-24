@@ -1,7 +1,7 @@
 {
-  "version": "2.1",
-  "versionCode": 12,
+  "version": "2.2",
+  "versionCode": 13,
   "apkUrl": "https://kaiser0733.github.io/persolist-updates/persolist-latest.apk",
-  "releaseNotes": "Replaced all placeholder text in Privacy Policy, Terms of Service, and Disclaimer with real values. Play Store ready — no bracketed placeholders remain.",
+  "releaseNotes": "Legal pages now hosted on GitHub Pages — opens in system browser with full formatting. No more empty pages.",
   "minVersionCode": null
 }
