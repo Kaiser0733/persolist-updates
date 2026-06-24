@@ -1,7 +1,7 @@
 {
-  "version": "2.0",
-  "versionCode": 11,
+  "version": "2.1",
+  "versionCode": 12,
   "apkUrl": "https://kaiser0733.github.io/persolist-updates/persolist-latest.apk",
-  "releaseNotes": "Smoother scrolling, fixed legal pages (terms/disclaimer/privacy now display correctly), GPU-accelerated glass cards, reduced petal animations for better performance.",
+  "releaseNotes": "Replaced all placeholder text in Privacy Policy, Terms of Service, and Disclaimer with real values. Play Store ready — no bracketed placeholders remain.",
   "minVersionCode": null
 }
