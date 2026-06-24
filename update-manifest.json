@@ -1,0 +1,7 @@
+{
+  "version": "1.9",
+  "versionCode": 10,
+  "apkUrl": "https://kaiser0733.github.io/persolist-updates/persolist-latest.apk",
+  "releaseNotes": "Removed Capgo OTA, switched to self-hosted updates via GitHub Pages. Faster, more reliable, no third-party dependency.",
+  "minVersionCode": null
+}
