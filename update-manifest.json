@@ -1,7 +1,7 @@
 {
-  "version": "2.2",
-  "versionCode": 13,
+  "version": "2.3",
+  "versionCode": 14,
   "apkUrl": "https://kaiser0733.github.io/persolist-updates/persolist-latest.apk",
-  "releaseNotes": "Legal pages now hosted on GitHub Pages — opens in system browser with full formatting. No more empty pages.",
+  "releaseNotes": "MAJOR scroll performance fix: removed backdrop-filter blur from all glass cards, disabled falling petals on APK, enabled Android hardware acceleration + large heap. Should now scroll at 60fps.",
   "minVersionCode": null
 }
