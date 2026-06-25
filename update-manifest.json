@@ -1,7 +1,7 @@
 {
-  "version": "2.4",
-  "versionCode": 15,
+  "version": "2.5",
+  "versionCode": 16,
   "apkUrl": "https://kaiser0733.github.io/persolist-updates/persolist-latest.apk",
-  "releaseNotes": "Added first-time result disclaimer gate with age confirmation (16+), plus persistent disclaimer banner on every result screen.",
+  "releaseNotes": "Added update guide modal (shows on first update tap with 3-step instructions), deleted dead code (legal-modal, admin-panel, pre-test disclaimer), fixed version labels to be dynamic.",
   "minVersionCode": null
 }
