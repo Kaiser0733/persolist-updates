@@ -1,7 +1,7 @@
 {
-  "version": "2.3",
-  "versionCode": 14,
+  "version": "2.4",
+  "versionCode": 15,
   "apkUrl": "https://kaiser0733.github.io/persolist-updates/persolist-latest.apk",
-  "releaseNotes": "MAJOR scroll performance fix: removed backdrop-filter blur from all glass cards, disabled falling petals on APK, enabled Android hardware acceleration + large heap. Should now scroll at 60fps.",
+  "releaseNotes": "Added first-time result disclaimer gate with age confirmation (16+), plus persistent disclaimer banner on every result screen.",
   "minVersionCode": null
 }
