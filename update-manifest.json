@@ -1,7 +1,7 @@
 {
-  "version": "2.7",
-  "versionCode": 18,
+  "version": "2.8",
+  "versionCode": 19,
   "apkUrl": "https://kaiser0733.github.io/persolist-updates/persolist-latest.apk",
-  "releaseNotes": "Fixed crash on launch (removed BootSplash, fixed network security config, cleaned manifest). Redesigned app icon + splash screen with proper SVG rendering via sharp. Removed stale Capgo permission overrides.",
+  "releaseNotes": "Rebuilt from the stable v2.5 base with new premium SVG icons + splash screen. No code changes that could cause crashes.",
   "minVersionCode": 17
 }
