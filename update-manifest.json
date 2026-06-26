@@ -1,7 +1,7 @@
 {
-  "version": "2.5",
-  "versionCode": 16,
+  "version": "2.6",
+  "versionCode": 17,
   "apkUrl": "https://kaiser0733.github.io/persolist-updates/persolist-latest.apk",
-  "releaseNotes": "Added update guide modal (shows on first update tap with 3-step instructions), deleted dead code (legal-modal, admin-panel, pre-test disclaimer), fixed version labels to be dynamic.",
+  "releaseNotes": "Premium app icon + splash screen upgrade. New ivory/white-flower/gold design across all launcher densities + Play Store icon + native splash.",
   "minVersionCode": null
 }
