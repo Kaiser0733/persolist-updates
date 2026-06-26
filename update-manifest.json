@@ -1,7 +1,7 @@
 {
-  "version": "2.6",
-  "versionCode": 17,
+  "version": "2.7",
+  "versionCode": 18,
   "apkUrl": "https://kaiser0733.github.io/persolist-updates/persolist-latest.apk",
-  "releaseNotes": "Premium app icon + splash screen upgrade. New ivory/white-flower/gold design across all launcher densities + Play Store icon + native splash.",
-  "minVersionCode": null
+  "releaseNotes": "Fixed crash on launch (removed BootSplash, fixed network security config, cleaned manifest). Redesigned app icon + splash screen with proper SVG rendering via sharp. Removed stale Capgo permission overrides.",
+  "minVersionCode": 17
 }
