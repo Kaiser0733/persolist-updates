@@ -1,1 +1,11 @@
-{"latestVersion":"0.6.2","minimumVersion":"0.1","disableAgent":false,"maintenanceMode":false,"maintenanceMessage":""}
+{
+  "latestVersion": "0.6.2",
+  "latestVersionCode": 41,
+  "latestReleaseTag": "v0.6.2-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.6.2-alpha/ai-agent-v0.6.2-alpha.apk",
+  "releaseNotes": "v0.6.2: REAL accessibility tools (read_screen, tap_text, type_text, scroll, go_back, go_home) + real floating overlay window (SYSTEM_ALERT_WINDOW, not PiP).",
+  "minRequiredVersion": "0.4",
+  "maintenanceMode": false,
+  "disabled": false,
+  "updatedAt": "2026-06-30T17:20:00Z"
+}
