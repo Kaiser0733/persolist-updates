@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.6.7",
-  "latestVersionCode": 45,
-  "latestReleaseTag": "v0.6.7-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.6.7-alpha/ai-agent-v0.6.7-alpha.apk",
-  "releaseNotes": "v0.6.7: fix stuck-in-thinking \u2014 streaming read timeout (was infinite) + 120s watchdog + timeout-triggered retry.",
+  "latestVersion": "0.6.8",
+  "latestVersionCode": 46,
+  "latestReleaseTag": "v0.6.8-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.6.8-alpha/ai-agent-v0.6.8-alpha.apk",
+  "releaseNotes": "v0.6.8: respect Retry-After header on 429 + 2s inter-iteration delay (was 800ms).",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-01T06:30:00Z"
+  "updatedAt": "2026-07-01T06:45:00Z"
 }
