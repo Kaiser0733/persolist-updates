@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.6.6",
-  "latestVersionCode": 44,
-  "latestReleaseTag": "v0.6.6-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.6.6-alpha/ai-agent-v0.6.6-alpha.apk",
-  "releaseNotes": "v0.6.6: press_enter tool (submits search after type_text) + blank-first-message fix + anti-hallucination check.",
+  "latestVersion": "0.6.7",
+  "latestVersionCode": 45,
+  "latestReleaseTag": "v0.6.7-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.6.7-alpha/ai-agent-v0.6.7-alpha.apk",
+  "releaseNotes": "v0.6.7: fix stuck-in-thinking \u2014 streaming read timeout (was infinite) + 120s watchdog + timeout-triggered retry.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-01T06:20:00Z"
+  "updatedAt": "2026-07-01T06:30:00Z"
 }
