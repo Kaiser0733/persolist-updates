@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.6.3",
-  "latestVersionCode": 42,
-  "latestReleaseTag": "v0.6.3-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.6.3-alpha/ai-agent-v0.6.3-alpha.apk",
-  "releaseNotes": "v0.6.3: tap_text smart disambiguation (Search vs Voice Search) + 429 auto-retry + worked example in system prompt.",
+  "latestVersion": "0.6.4",
+  "latestVersionCode": 43,
+  "latestReleaseTag": "v0.6.4-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.6.4-alpha/ai-agent-v0.6.4-alpha.apk",
+  "releaseNotes": "v0.6.4: open_app now polls for the target app's window (up to 6s) instead of fixed 1s wait. read_screen polls for active window. New wait_seconds tool. flagRetrieveInteractiveWindows.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-01T05:40:00Z"
+  "updatedAt": "2026-07-01T05:55:00Z"
 }
