@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.6.9",
-  "latestVersionCode": 47,
-  "latestReleaseTag": "v0.6.9-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.6.9-alpha/ai-agent-v0.6.9-alpha.apk",
-  "releaseNotes": "v0.6.9: history compaction (old tool results summarized) + read_screen capped at 1000 chars. Fixes Groq 6000 tokens/min limit.",
+  "latestVersion": "0.7.0",
+  "latestVersionCode": 50,
+  "latestReleaseTag": "v0.7.0-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.0-alpha/ai-agent-v0.7.0-alpha.apk",
+  "releaseNotes": "v0.7.0: Script-first architecture. YouTube scripts replace raw tool driving. 3 AI calls per task (was 7-8). Adaptive polling for slow internet. No more rate-limit issues.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-01T13:00:00Z"
+  "updatedAt": "2026-07-01T14:20:00Z"
 }
