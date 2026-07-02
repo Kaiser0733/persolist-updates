@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.7.2",
-  "latestVersionCode": 52,
-  "latestReleaseTag": "v0.7.2-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.2-alpha/ai-agent-v0.7.2-alpha.apk",
-  "releaseNotes": "v0.7.2: fix YouTube search submit \u2014 tap autocomplete suggestion instead of looking for Search button (which was matching Voice search).",
+  "latestVersion": "0.7.3",
+  "latestVersionCode": 53,
+  "latestReleaseTag": "v0.7.3-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.3-alpha/ai-agent-v0.7.3-alpha.apk",
+  "releaseNotes": "v0.7.3: strict autocomplete suggestion filter (excludes mic/voice) + voice search detection (detects + dismisses + asks to retry).",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-01T15:30:00Z"
+  "updatedAt": "2026-07-02T01:35:00Z"
 }
