@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.7.7",
-  "latestVersionCode": 57,
-  "latestReleaseTag": "v0.7.7-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.7-alpha/ai-agent-v0.7.7-alpha.apk",
-  "releaseNotes": "v0.7.7: completely rewritten YouTube search submit \u2014 click EditText + IME_ENTER + keyboard Enter tap by coordinates. Never taps suggestions (was hitting mic).",
+  "latestVersion": "0.7.8",
+  "latestVersionCode": 58,
+  "latestReleaseTag": "v0.7.8-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.8-alpha/ai-agent-v0.7.8-alpha.apk",
+  "releaseNotes": "v0.7.8: THE REAL FIX \u2014 tap YouTube search icon by screen position (top-right corner), never by text matching. The mic icon's content description contains 'search' so text matching always hit it. Coordinate-based taps are deterministic.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-02T09:30:00Z"
+  "updatedAt": "2026-07-02T10:00:00Z"
 }
