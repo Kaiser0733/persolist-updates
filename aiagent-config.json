@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.7.5",
-  "latestVersionCode": 55,
-  "latestReleaseTag": "v0.7.5-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.5-alpha/ai-agent-v0.7.5-alpha.apk",
-  "releaseNotes": "v0.7.5: fix stuck-on-thinking \u2014 60s tool timeout for youtube_* scripts (was 30s) + catch all CancellationException + reduced internal waits.",
+  "latestVersion": "0.7.6",
+  "latestVersionCode": 56,
+  "latestReleaseTag": "v0.7.6-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.6-alpha/ai-agent-v0.7.6-alpha.apk",
+  "releaseNotes": "v0.7.6: aggressive stream timeouts (30s read / 45s watchdog, was 90s/120s) + About screen description updated for v0.7.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-02T02:10:00Z"
+  "updatedAt": "2026-07-02T02:30:00Z"
 }
