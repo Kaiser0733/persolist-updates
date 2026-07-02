@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.7.8",
-  "latestVersionCode": 58,
-  "latestReleaseTag": "v0.7.8-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.8-alpha/ai-agent-v0.7.8-alpha.apk",
-  "releaseNotes": "v0.7.8: THE REAL FIX \u2014 tap YouTube search icon by screen position (top-right corner), never by text matching. The mic icon's content description contains 'search' so text matching always hit it. Coordinate-based taps are deterministic.",
+  "latestVersion": "0.7.9",
+  "latestVersionCode": 59,
+  "latestReleaseTag": "v0.7.9-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.9-alpha/ai-agent-v0.7.9-alpha.apk",
+  "releaseNotes": "v0.7.9: find keyboard Enter key via accessibility tree (walks keyboard window, looks for IME action label 'Search'). No more coordinate guessing.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-02T10:00:00Z"
+  "updatedAt": "2026-07-02T10:30:00Z"
 }
