@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.7.6",
-  "latestVersionCode": 56,
-  "latestReleaseTag": "v0.7.6-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.6-alpha/ai-agent-v0.7.6-alpha.apk",
-  "releaseNotes": "v0.7.6: aggressive stream timeouts (30s read / 45s watchdog, was 90s/120s) + About screen description updated for v0.7.",
+  "latestVersion": "0.7.7",
+  "latestVersionCode": 57,
+  "latestReleaseTag": "v0.7.7-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.7-alpha/ai-agent-v0.7.7-alpha.apk",
+  "releaseNotes": "v0.7.7: completely rewritten YouTube search submit \u2014 click EditText + IME_ENTER + keyboard Enter tap by coordinates. Never taps suggestions (was hitting mic).",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-02T02:30:00Z"
+  "updatedAt": "2026-07-02T09:30:00Z"
 }
