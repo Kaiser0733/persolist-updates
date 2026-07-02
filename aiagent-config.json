@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.7.10",
-  "latestVersionCode": 60,
-  "latestReleaseTag": "v0.7.10-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.10-alpha/ai-agent-v0.7.10-alpha.apk",
-  "releaseNotes": "v0.7.10: fix search\u2192home loop \u2014 voice detection was matching the mic button's permanent 'voice search' label. Now only detects active overlay ('speak now', 'listening', 'try saying').",
+  "latestVersion": "0.7.11",
+  "latestVersionCode": 61,
+  "latestReleaseTag": "v0.7.11-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.11-alpha/ai-agent-v0.7.11-alpha.apk",
+  "releaseNotes": "v0.7.11: Stop button + guaranteed busy cleanup (try/finally) + callbackFlow with awaitClose (stream properly cancels) + 120s overall turn timeout.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-02T11:00:00Z"
+  "updatedAt": "2026-07-02T12:00:00Z"
 }
