@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.7.4",
-  "latestVersionCode": 54,
-  "latestReleaseTag": "v0.7.4-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.4-alpha/ai-agent-v0.7.4-alpha.apk",
-  "releaseNotes": "v0.7.4: tablet fix \u2014 autocomplete suggestions restricted to top 25% of screen. Excludes the floating mic button at the bottom of YouTube on tablets (Samsung Galaxy Tab A9+).",
+  "latestVersion": "0.7.5",
+  "latestVersionCode": 55,
+  "latestReleaseTag": "v0.7.5-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.5-alpha/ai-agent-v0.7.5-alpha.apk",
+  "releaseNotes": "v0.7.5: fix stuck-on-thinking \u2014 60s tool timeout for youtube_* scripts (was 30s) + catch all CancellationException + reduced internal waits.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-02T01:50:00Z"
+  "updatedAt": "2026-07-02T02:10:00Z"
 }
