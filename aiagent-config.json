@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.8.2",
-  "latestVersionCode": 67,
-  "latestReleaseTag": "v0.8.2-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.8.2-alpha/ai-agent-v0.8.2-alpha.apk",
-  "releaseNotes": "v0.8.2: fix file operations \u2014 AI can now delete/move/rename without hallucinating restrictions.",
+  "latestVersion": "0.8.3",
+  "latestVersionCode": 68,
+  "latestReleaseTag": "v0.8.3-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.8.3-alpha/ai-agent-v0.8.3-alpha.apk",
+  "releaseNotes": "v0.8.3: WhatsApp + Spotify + Chrome script tools. 5 new deep-link based tools. Tool count 17 to 24.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-03T02:30:00Z"
+  "updatedAt": "2026-07-03T03:00:00Z"
 }
