@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.8.11",
-  "latestVersionCode": 76,
-  "latestReleaseTag": "v0.8.11-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.8.11-alpha/ai-agent-v0.8.11-alpha.apk",
-  "releaseNotes": "v0.8.11: complete system prompt rewrite \u2014 anti-hallucination core rules, what you cannot do section, verify-before-claim rule.",
+  "latestVersion": "0.8.12",
+  "latestVersionCode": 77,
+  "latestReleaseTag": "v0.8.12-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.8.12-alpha/ai-agent-v0.8.12-alpha.apk",
+  "releaseNotes": "v0.8.12: 7 new anti-hallucination file tools \u2014 create_folder_structure, write_code_file, describe_folder, file_exists, read_file_summary, copy_file, list_installed_apps. 31 tools total.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-03T07:30:00Z"
+  "updatedAt": "2026-07-03T08:00:00Z"
 }
