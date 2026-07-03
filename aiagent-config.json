@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.8.7",
-  "latestVersionCode": 72,
-  "latestReleaseTag": "v0.8.7-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.8.7-alpha/ai-agent-v0.8.7-alpha.apk",
-  "releaseNotes": "v0.8.7: 3 API provider slots \u2014 switch between NVIDIA/Groq/Gemini with one tap.",
+  "latestVersion": "0.8.8",
+  "latestVersionCode": 73,
+  "latestReleaseTag": "v0.8.8-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.8.8-alpha/ai-agent-v0.8.8-alpha.apk",
+  "releaseNotes": "v0.8.8: fix blank response (return tool result instead of generic error) + simplified slot UI.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-03T05:00:00Z"
+  "updatedAt": "2026-07-03T05:30:00Z"
 }
