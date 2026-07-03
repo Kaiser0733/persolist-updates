@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.8.4",
-  "latestVersionCode": 69,
-  "latestReleaseTag": "v0.8.4-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.8.4-alpha/ai-agent-v0.8.4-alpha.apk",
-  "releaseNotes": "v0.8.4: stop AI from overthinking simple app scripts (Chrome/WhatsApp/Spotify). Just fire the deep link and report.",
+  "latestVersion": "0.8.5",
+  "latestVersionCode": 70,
+  "latestReleaseTag": "v0.8.5-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.8.5-alpha/ai-agent-v0.8.5-alpha.apk",
+  "releaseNotes": "v0.8.5: Spotify auto-play \u2014 searches and taps first result automatically.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-03T03:30:00Z"
+  "updatedAt": "2026-07-03T04:00:00Z"
 }
