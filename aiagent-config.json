@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.7.13",
-  "latestVersionCode": 63,
-  "latestReleaseTag": "v0.7.13-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.13-alpha/ai-agent-v0.7.13-alpha.apk",
-  "releaseNotes": "v0.7.13: AI scrolls for more results (up to 30) instead of asking user.",
+  "latestVersion": "0.7.14",
+  "latestVersionCode": 64,
+  "latestReleaseTag": "v0.7.14-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.14-alpha/ai-agent-v0.7.14-alpha.apk",
+  "releaseNotes": "v0.7.14: ULTIMATE stuck-thinking fix \u2014 150s hard watchdog + fallback messages + reduced timeouts.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-02T14:00:00Z"
+  "updatedAt": "2026-07-02T15:00:00Z"
 }
