@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.8.1",
-  "latestVersionCode": 66,
-  "latestReleaseTag": "v0.8.1-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.8.1-alpha/ai-agent-v0.8.1-alpha.apk",
-  "releaseNotes": "v0.8.1: ChatGPT-style chat history sidebar + file creation fix.",
+  "latestVersion": "0.8.2",
+  "latestVersionCode": 67,
+  "latestReleaseTag": "v0.8.2-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.8.2-alpha/ai-agent-v0.8.2-alpha.apk",
+  "releaseNotes": "v0.8.2: fix file operations \u2014 AI can now delete/move/rename without hallucinating restrictions.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-03T02:00:00Z"
+  "updatedAt": "2026-07-03T02:30:00Z"
 }
