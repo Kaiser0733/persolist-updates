@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.7.11",
-  "latestVersionCode": 61,
-  "latestReleaseTag": "v0.7.11-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.11-alpha/ai-agent-v0.7.11-alpha.apk",
-  "releaseNotes": "v0.7.11: Stop button + guaranteed busy cleanup (try/finally) + callbackFlow with awaitClose (stream properly cancels) + 120s overall turn timeout.",
+  "latestVersion": "0.7.12",
+  "latestVersionCode": 62,
+  "latestReleaseTag": "v0.7.12-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.12-alpha/ai-agent-v0.7.12-alpha.apk",
+  "releaseNotes": "v0.7.12: deep-link YouTube search \u2014 fires Intent to youtube.com/results (videos only). Fixes orientation issues, 'YouTube already in video' bug, and 'opens channel not video' bug.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-02T12:00:00Z"
+  "updatedAt": "2026-07-02T13:00:00Z"
 }
