@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.8.3",
-  "latestVersionCode": 68,
-  "latestReleaseTag": "v0.8.3-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.8.3-alpha/ai-agent-v0.8.3-alpha.apk",
-  "releaseNotes": "v0.8.3: WhatsApp + Spotify + Chrome script tools. 5 new deep-link based tools. Tool count 17 to 24.",
+  "latestVersion": "0.8.4",
+  "latestVersionCode": 69,
+  "latestReleaseTag": "v0.8.4-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.8.4-alpha/ai-agent-v0.8.4-alpha.apk",
+  "releaseNotes": "v0.8.4: stop AI from overthinking simple app scripts (Chrome/WhatsApp/Spotify). Just fire the deep link and report.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-03T03:00:00Z"
+  "updatedAt": "2026-07-03T03:30:00Z"
 }
