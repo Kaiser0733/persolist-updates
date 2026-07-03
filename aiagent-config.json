@@ -1,11 +1,11 @@
 {
-  "latestVersion": "0.7.12",
-  "latestVersionCode": 62,
-  "latestReleaseTag": "v0.7.12-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.12-alpha/ai-agent-v0.7.12-alpha.apk",
-  "releaseNotes": "v0.7.12: deep-link YouTube search \u2014 fires Intent to youtube.com/results (videos only). Fixes orientation issues, 'YouTube already in video' bug, and 'opens channel not video' bug.",
+  "latestVersion": "0.7.13",
+  "latestVersionCode": 63,
+  "latestReleaseTag": "v0.7.13-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v0.7.13-alpha/ai-agent-v0.7.13-alpha.apk",
+  "releaseNotes": "v0.7.13: AI scrolls for more results (up to 30) instead of asking user.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-02T13:00:00Z"
+  "updatedAt": "2026-07-02T14:00:00Z"
 }
