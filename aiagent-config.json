@@ -3,9 +3,9 @@
   "latestVersionCode": 104,
   "latestReleaseTag": "v1.0.4-alpha",
   "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v1.0.4-alpha/ai-agent-v1.0.4-release.apk",
-  "releaseNotes": "v1.0.4: Updater fix \u2014 no more duplicate apps. New permanent release keystore. Existing v1.0.1 release users must uninstall first (one-time reinstall).",
+  "releaseNotes": "v1.0.4: Updater fix \u2014 variant-aware asset picker + pre-install signature check. No more duplicate apps. NOTE: signed with NEW release keystore (old one was lost). Existing v1.0.1 release users must uninstall once before installing v1.0.4.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-04T17:30:00Z"
+  "updatedAt": "2026-07-04T18:00:00Z"
 }
