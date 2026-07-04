@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.0.2",
-  "latestVersionCode": 102,
-  "latestReleaseTag": "v1.0.2-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v1.0.2-alpha/ai-agent-v1.0.2-release.apk",
-  "releaseNotes": "v1.0.2: R8 minification \u2014 APK 12.6MB to 8.1MB (36% smaller). Code obfuscated for security.",
+  "latestVersion": "1.0.3",
+  "latestVersionCode": 103,
+  "latestReleaseTag": "v1.0.3-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v1.0.3-alpha/ai-agent-v1.0.3-debug.apk",
+  "releaseNotes": "v1.0.3: Stabilization \u2014 split 1015-line accessibility service into 7 focused files. No behavior change.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-04T13:00:00Z"
+  "updatedAt": "2026-07-04T14:00:00Z"
 }
