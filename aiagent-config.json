@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.0.21",
-  "latestVersionCode": 1021,
-  "latestReleaseTag": "v1.0.21-alpha",
-  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v1.0.21-alpha/ai-agent-v1.0.21-release.apk",
-  "releaseNotes": "v1.0.21: Onboarding flow + install instructions. See release page for Play Protect bypass steps.",
+  "latestVersion": "1.0.22",
+  "latestVersionCode": 1022,
+  "latestReleaseTag": "v1.0.22-alpha",
+  "downloadUrl": "https://github.com/Kaiser0733/AndroidAIAgent/releases/download/v1.0.22-alpha/ai-agent-v1.0.22-release.apk",
+  "releaseNotes": "v1.0.22: see release page for details.",
   "minRequiredVersion": "0.4",
   "maintenanceMode": false,
   "disabled": false,
-  "updatedAt": "2026-07-05T15:00:00Z"
+  "updatedAt": "2026-07-04T19:00:00Z"
 }
